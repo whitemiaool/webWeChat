@@ -22,16 +22,8 @@
     "lodash": "^4.16.4",
     "mime": "^1.3.4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nodeWechat/wechat4u.git"
-  },
   "author": "nodeWechat",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nodeWechat/wechat4u/issues"
-  },
-  "homepage": "https://github.com/nodeWechat/wechat4u#readme",
   "devDependencies": {
     "babel-cli": "^6.14.0",
     "babel-preset-env": "^1.2.1",
