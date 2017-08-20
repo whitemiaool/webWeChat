@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    iframe {
+        width: 500px;
+        height: 500px;
+    }
+</style>
+<body>
+    <h2><%- src %></h2>
+    <iframe src='<%=src%>' frameborder="0"></iframe>
+</body>
+<script src="lib/jq-min-2.0.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="js/socket.js"></script>
+</html>
