@@ -20,7 +20,8 @@
     "express": "^4.15.4",
     "form-data": "^2.1.2",
     "lodash": "^4.16.4",
-    "mime": "^1.3.4"
+    "mime": "^1.3.4",
+    "socket.io": "^2.0.3"
   },
   "author": "nodeWechat",
   "license": "MIT",
