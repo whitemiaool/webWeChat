@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgba(158, 255, 251, 0.4);
+}
+
+.get-err {
+    color: #dc4040;
+    background: #ffd2d2;
+}
+
+.login-qr {
+    box-shadow: 13px 10px 39px rgba(125, 125, 125, 0.8) !important;
+    text-align: center;
+    background: rgba(90, 90, 90, 0.3);
+    color:#00a08b;
+}
+
+.login-qr img {
+    margin-top: 15px;
+}
+
+.login-success {
+    color: #341590;
+    background: #90ff94;
+}
+
+.sys-msg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    box-shadow: 4px 3px 5px rgba(204, 204, 204, 0.8);
+    padding: 10px 20px;
+    transform: translate(-50%,-50%);
+}
+
+.sure-login {
+    color: #879200;
+    background: #90e5ef;
+}
